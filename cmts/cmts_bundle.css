@@ -1,8 +1,8 @@
 
 @font-face {
   font-family: "bundle";
-  src: url("fonts/bundle.eot?#iefix") format("embedded-opentype"),
-       url("../../fonts/bundle.woff") format("woff");
+  src: url("mint-bundle/fonts/bundle.eot?#iefix") format("embedded-opentype"),
+       url("../../mint-bundle/fonts/bundle.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
