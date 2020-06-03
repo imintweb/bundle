@@ -1,6 +1,6 @@
 /*avatar*/
 .comments .avatar-image-container {
-  background-image: url(../../resources/anon-default.png);
+  background-image: url(../../mint-bundle/resources/anon-default.png);
   background-color: #eee;
   height: 50px;
   width: 50px;
