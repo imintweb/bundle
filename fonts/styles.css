@@ -1,19 +1,19 @@
 @charset "UTF-8";
 
 @font-face {
-  font-family: "pintab";
-  src:url("fonts/pintab.eot");
-  src:url("fonts/pintab.eot?#iefix") format("embedded-opentype"),
-    url("fonts/pintab.woff") format("woff"),
-    url("fonts/pintab.ttf") format("truetype"),
-    url("fonts/pintab.svg#pintab") format("svg");
+  font-family: "mint-icon";
+  src:url("fonts/mint-icon.eot");
+  src:url("fonts/mint-icon.eot?#iefix") format("embedded-opentype"),
+    url("fonts/mint-icon.woff") format("woff"),
+    url("fonts/mint-icon.ttf") format("truetype"),
+    url("fonts/mint-icon.svg#pintab") format("svg");
   font-weight: normal;
   font-style: normal;
 
 }
 
 [data-icon]:before {
-  font-family: "pintab" !important;
+  font-family: "mint-icon" !important;
   content: attr(data-icon);
   font-style: normal !important;
   font-weight: normal !important;
@@ -27,7 +27,7 @@
 
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
-  font-family: "pintab" !important;
+  font-family: "mint-icon" !important;
   font-style: normal !important;
   font-weight: normal !important;
   font-variant: normal !important;
